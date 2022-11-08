@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color:rgb(255, 252, 249);
+    font-family: 'Poppins', sans-serif;
+    background-size:cover;
+    background-size:cover;                      
+    background-position:center center; 
+}
+#brand_name {
+    font-size:larger;
+}
+#pg-paragraph {
+    position:relative;
+    top:120px;
+    font-size:17px;
+}
+#pg-paragraph a {
+    text-decoration: underline;
+    color:black;
+}
+#name {
+    font-family: 'Poppins', sans-serif;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    background-color:rgb(18, 15, 27);
+    border-radius: 20px;
+    height:80px;
+    width:98%;
+}
+#footer a {
+    text-decoration: none;
+}
+.linkname {
+    position:relative;
+    bottom:10px;
+}
+#ilinkname {
+    position:relative;
+    top:-34.5px;
+}
+#slinkname {
+    position:relative;
+    top:-35px;
+    left:5px;
+}
+#imagerow {
+    position: relative;
+    top:150px;
+}
+.spanspace {
+    padding-left:30px;
+}
+#bigmiddle {
+    position: relative;
+    top:30px;
+}
+#notice {
+    position: relative;
+    top:200px;
+    font-size:24px;
+}
